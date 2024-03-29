@@ -1,2 +1,2 @@
-# distributed-system-2023-2024
+# distributed-systems-2023-2024
 
